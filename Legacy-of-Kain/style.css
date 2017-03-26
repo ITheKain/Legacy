@@ -1,0 +1,94 @@
+/* CSS Document */
+
+.main_border {} /* stilul pentru meniul*/
+p {font-family:Verdana; font-size:12px; margin:15px;}
+.img {margin-right:10px;}
+.img2 {border:1px solid #000000;}
+p.red {font-family:Verdana; font-size:0.8em; margin:10px;}
+p.right{ margin:75px 10px 10px; float:right;}
+.left {background-color:#666666; /*border:1px solid #424242;*/}
+li.page{margin-left:10px;font-size:1em;}
+p.option{margin-left:10px;font-weight:bold;color:#600;font-size:1em;}
+.mid{margin-right:100px;}
+.link{color:#600;}
+hr { color:#600; size:1;}
+.name{background-color:#59596A; border:1px solid #000000; color:#FFFFFF; text-align:center;
+font-weight:bold; font-size:15px; font-family:Arial, Helvetica, sans-serif;}
+b {color:#600;}/* stilul pentru cuvinte ingroshate*/
+.vote{color:#FFFFFF; font-weight:bold;}
+.vote_op{color:#FFFFFF; font-weight:bold; font-family:Arial, Helvetica, sans-serif;}
+strong {color:#600;}
+a.map{color:#FFFFFF; font-size:20px;}
+h2 {color:#600; font-size:1.0em; margin-left:15px; font-family:Arial, Helvetica, sans-serif;}
+h2.ch {color:#600; font-size:1.0em; margin:15px 0px;}
+h2.map{color:#FFFFFF; font-size:24px;}
+.post {width:95%;margin-top:5px;margin-bottom:5px;}
+p.mini {margin-left:150px;}
+p.title {
+background-color:#000000;
+color: #66666;
+font-weight:bold;
+margin:0px;
+padding:0px; 
+}
+.desc{background-color:#EAEAEA;border:1px solid gray;}
+/* pentru tabela din vie_map pentru sl*/
+.desc1{background-color:#999999;border:1px solid black;}
+/* pentru tabela din vie_map pentru sl*/
+.desc2{background-color:#CCCCCC;border:1px solid gray;}
+h2.ch {margin:10px; background-color:#686174; border:1px solid #000000; color:#FFFFFF; text-align:center; }
+h2.c {background-color:#686174; border:1px solid #000000; color:#FFFFFF; text-align:center; }
+hr {background-color:#600;}
+#coolmenu{
+	border-width:2px;
+	border:double;
+	width: 93%;
+	background-color:#333333;
+	margin:3px;
+	color: #000000;
+	}
+#coolmenu_select{
+border: 1px solid black; 
+border-bottom-width: 0;
+width: 100%;
+background-color:#760000; 
+margin:0px;
+
+}
+
+* html #coolmenu{ 
+width: 150px;
+}
+
+#coolmenu a{
+	padding: 2px;
+	padding-left: 4px;
+	display: block;
+	width: 100%;
+	color:#FFFFFF; 
+	text-decoration: none;
+	border-bottom: 1px solid gray;
+	font-family: Verdana;
+	font-size: 13px;
+	font-weight: bold;
+}
+#coolmenu_select a{
+	padding: 2px;
+	padding-left: 4px;
+	display: block;
+	width: 100%;
+	color:#FFFFFF;
+	text-decoration: none;
+	border-bottom: 1px solid gray;
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: bold;
+}
+html>body #coolmenu a{ 
+width: auto;
+}
+
+#coolmenu a:hover{
+	background-color: #666666;
+	color: #000000;
+}
