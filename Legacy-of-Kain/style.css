@@ -84,6 +84,19 @@ width: 150px;
 	font-size: 12px;
 	font-weight: bold;
 }
+
+#coolmenu2_select a{
+	padding: 2px;
+	padding-left: 4px;
+	display: block;
+	width: 100%;
+	color:#FFFFFF;
+	text-decoration: none;
+	border-bottom: 1px solid gray;
+	font-family: Verdana;
+	font-size: 12px;
+	font-weight: bold;
+}
 html>body #coolmenu a{ 
 width: auto;
 }
