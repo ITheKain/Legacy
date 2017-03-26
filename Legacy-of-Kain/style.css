@@ -9,9 +9,9 @@ p.right{ margin:75px 10px 10px; float:right;}
 .left {background-color:#666666; /*border:1px solid #424242;*/}
 li.page{margin-left:10px;font-size:1em;}
 p.option{margin-left:10px;font-weight:bold;color:#600;font-size:1em;}
-.mid{margin-right:100px;}
+.mid{margin-right:125px;}
 .link{color:#600;}
-hr { color:#600; size:1;}
+hr { color:#600; size:12;}
 .name{background-color:#59596A; border:1px solid #000000; color:#FFFFFF; text-align:center;
 font-weight:bold; font-size:15px; font-family:Arial, Helvetica, sans-serif;}
 b {color:#600;}/* stilul pentru cuvinte ingroshate*/
