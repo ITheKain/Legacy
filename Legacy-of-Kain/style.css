@@ -60,6 +60,10 @@ margin:0px;
 width: 150px;
 }
 
+* html #coolmenu2{ 
+width: 150px;
+}
+
 #coolmenu a{
 	padding: 2px;
 	padding-left: 4px;

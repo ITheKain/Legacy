@@ -1,0 +1,5 @@
+MAC Address:	00-23-5A-8B-85-06
+IP Address:	178.168.67.30	Dynamic IP
+Subnet Mask:	255.255.255.0	 
+Default Gateway:	178.168.67.1	  
+DNS Server:	89.28.1.1 , 87.248.160.5
