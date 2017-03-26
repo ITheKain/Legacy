@@ -15,14 +15,14 @@ $myrow = mysql_fetch_array($result);
 </head>
 
 <body background="img/background.jpg">
-<table width="1000" border="0" align="center" class="main_border">
+<table width="1000" border="1" align="center" class="main_border">
 <?php 
 
 include("blocks\header.php");
 
 ?>
  <tr>
-    <td><table width="100%" border="0">
+    <td><table width="100%" border="1">
 <?php
 
  include("blocks\leftmenu.php");
